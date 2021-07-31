@@ -1,5 +1,13 @@
 ### Hi there 👋
+<h1 align='center'> bom dia </h1> 
 
+<div align="center">
+  <img height="165"
+      src="https://github-readme-stats.vercel.app/api?username=ellievi&show_icons=true&count_private=true&theme=tokyonight"/>&nbsp;
+  <br/> <br/>
+  <img height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellievi&layout=compact&theme=tokyonight"
+<div>
 <!--
 **ellievi/ellievi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
